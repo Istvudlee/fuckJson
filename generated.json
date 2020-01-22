@@ -1,36 +1,37 @@
 {
-  objects:[
-  {
-    "image": "https://fucking-great-advice.ru/data/frontpage/_default/10.jpg"
-  },
-  {
-    "image": "https://fucking-great-advice.ru/data/frontpage/_default/11.jpg"
-  },
-  {
-    "image": "https://fucking-great-advice.ru/data/frontpage/_default/12.jpg"
-  },
-  {
-    "image": "https://fucking-great-advice.ru/data/frontpage/_default/13.jpg"
-  },
-  {
-    "image": "https://fucking-great-advice.ru/data/frontpage/_default/14.jpg"
-  },
-  {
-    "image": "https://fucking-great-advice.ru/data/frontpage/_default/15.jpg"
-  },
-  {
-    "image": "https://fucking-great-advice.ru/data/frontpage/_default/16.jpg"
-  },
-  {
-    "image": "https://fucking-great-advice.ru/data/frontpage/_default/17.jpg"
-  },
-  {
-    "image": "https://fucking-great-advice.ru/data/frontpage/_default/18.jpg"
-  },
-  {
-    "image": "https://fucking-great-advice.ru/data/frontpage/_default/19.jpg"
-  },
-  {
-    "image": "https://fucking-great-advice.ru/data/frontpage/_default/20.jpg"
-  }
-]}
+  "objects": [
+    {
+      "image": "https://fucking-great-advice.ru/data/frontpage/_default/10.jpg"
+    },
+    {
+      "image": "https://fucking-great-advice.ru/data/frontpage/_default/11.jpg"
+    },
+    {
+      "image": "https://fucking-great-advice.ru/data/frontpage/_default/12.jpg"
+    },
+    {
+      "image": "https://fucking-great-advice.ru/data/frontpage/_default/13.jpg"
+    },
+    {
+      "image": "https://fucking-great-advice.ru/data/frontpage/_default/14.jpg"
+    },
+    {
+      "image": "https://fucking-great-advice.ru/data/frontpage/_default/15.jpg"
+    },
+    {
+      "image": "https://fucking-great-advice.ru/data/frontpage/_default/16.jpg"
+    },
+    {
+      "image": "https://fucking-great-advice.ru/data/frontpage/_default/17.jpg"
+    },
+    {
+      "image": "https://fucking-great-advice.ru/data/frontpage/_default/18.jpg"
+    },
+    {
+      "image": "https://fucking-great-advice.ru/data/frontpage/_default/19.jpg"
+    },
+    {
+      "image": "https://fucking-great-advice.ru/data/frontpage/_default/20.jpg"
+    }
+  ]
+}
